@@ -1,7 +1,7 @@
 #include "code.h"
 
 void print_mat(const Matrix& a);
-
+//BLA BLA BLA
 FSSH::FSSH(){
 	for(iK=10.0; iK<31.0; iK=iK+10){
 		Right1=Left1=Right2=Left2=0;
